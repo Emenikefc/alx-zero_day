@@ -1,1 +1,1 @@
-0x03-git directory is a playground for git
+0x03-git directory is a playgrounfd for git
